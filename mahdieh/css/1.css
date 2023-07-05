@@ -1,0 +1,222 @@
+@charset "utf-8";
+html{
+		scroll-behavior: smooth;
+	}
+body {
+    background-attachment: fixed;
+}
+	.btn-secondary {
+    background-color: #9100FF!important;
+    color: #FFFFFF!important;
+}
+    .container {
+    border: 2px solid #FF0004;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/download.jpg);
+    height: 2000px;
+    width: 650px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    .card {
+    background-color: rgba(72,136,223,0.70);
+    color: #005CFF;
+}.container .row .col-md-4 {
+    display:inline-block;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+.col-md-4{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+.P1 {
+    width: 103px;
+    height: 100px;
+    margin-top: 123px;
+}
+.P2 {
+
+
+}
+a {
+	color: rgba(0,255,76,1.00);
+	font-family: planetbe;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: rgba(107,9,150,1.00);
+	text-decoration: line-through;
+	font-family: "Chocolate Covered Raindrops";
+}
+a:hover {
+	color: rgba(209,25,28,1.00);
+}
+a:focus {
+	color: rgba(0,124,255,1.00);
+	font-style: italic;
+}
+a:active {
+	color: rgba(10,255,0,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav {
+	text-align: center;
+}
+ul li {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  width: 100%;
+  overflow: auto;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-content a {
+  display: block;
+  color: #000000;
+  padding: 5px;
+  text-decoration: none;
+}
+.dropdown-content a:hover {
+  color: #FFFFFF;
+  background-color: #00A4BD;
+}
+header {
+    background-image: url(../images/wepik-photo-mode-2022111-21453.jpeg);
+    border-radius: 15px;
+}
+button {
+    background-color: transparent;
+    text-shadow: 0 0;
+    color: rgba(51,168,252,1.00);
+    border: 2px solid transparent;
+}
+
+.d2 {
+    width: 270px;
+    height: 259px;
+    background-attachment: fixed;
+    margin-left: 32px;
+    background-color: rgba(0,0,0,0.41);
+    border-radius: 15px;
+    margin-top: 100px;
+}
+.d2 #Birthday {
+    margin-left: 67px;
+
+}
+.d2 .d21 {
+    margin-left: 48px;
+    color: rgba(19,202,224,1.00);
+    font-weight: bold;
+}
+.d2 .r2 {
+    color: rgba(238,28,31,1.00);
+    font-weight: bold;
+    font-size: 21px;
+    margin-right: 0px;
+    margin-left: 100px;
+}
+
+p {
+    color: rgba(89,173,252,1.00);
+}
+div li .dropdown .dropdown-content a {
+    color: rgba(255,255,255,1.00);
+}
+.d3 {
+    width: 270px;
+    height: 259px;
+    background-color: rgba(0,0,0,0.35);
+    border-radius: 18px;
+    margin-left: 336px;
+    margin-top: -296px;
+    text-decoration: underline;
+}
+
+.d3 ul li {
+    display: list-item;
+    margin-left: -17px;
+    padding-top: 9px;
+
+}
+.d4 {
+    width: 600px;
+    background-color: rgba(166,9,12,1.00);
+    height: 124px;
+    margin-left: 23px;
+    margin-top: 32px;
+    color: rgba(0,255,243,1.00);
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    text-transform: capitalize;
+    line-height: 106px;
+}
+/*
+hr {
+    border-color: rgba(255,0,4,1.00);
+
+
+}
+*/
+
+.hr1 {
+    border-color: rgba(255,0,4,1.00);
+}
+.p3 {
+    color: rgba(0,235,255,1.00);
+    text-align: center;
+    font-style: italic;
+    margin-top: 44px;
+
+}
+p a img {
+    width: 74px;
+    height: 86px;
+    display: inline-block;
+    margin-top: 8px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+.p4  {
+    padding-left: 0px;
+    margin-top: 30px;
+}
+.p5 {
+    margin-left: 185px;
+    margin-top: -110px;
+}
+.p6 {
+    margin-left: 320px;
+    margin-top: -116px;
+}
+.p7 {
+    margin-left: 477px;
+    margin-top: -117px;
+}
